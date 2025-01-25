@@ -1,0 +1,24 @@
+.a1{
+    cursor: pointer;
+}
+
+.footer{
+    background-color: white; /* Устанавливаем чёрный фон */
+    color: black; /* Устанавливаем белый цвет текста для лучшей читаемости */
+    padding: 20px; /* Добавляем отступы для лучшего внешнего вида */
+    border-radius: 20px;    
+}
+
+.p2{
+    font-family: "a_AntiqueGR";
+
+}
+
+.container2{
+    color: white;    
+}
+
+::selection{
+    color: white;
+    background-color: black;
+}
